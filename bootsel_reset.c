@@ -1,3 +1,6 @@
+// SPDX-FileCopyrightText: 2021 George Rennie
+// SPDX-License-Identifier: BSD-3-Clause
+
 #include <stdio.h>
 #include "pico/stdlib.h"
 #include "hardware/gpio.h"

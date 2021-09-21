@@ -1,3 +1,6 @@
+// SPDX-FileCopyrightText: 2021 George Rennie
+// SPDX-License-Identifier: BSD-3-Clause
+
 #include "pico/stdlib.h"
 
 // This just blinks the LED, however if bootsel_reset is linked with it, 
